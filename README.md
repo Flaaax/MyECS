@@ -4,7 +4,7 @@
 An ECS library for studying, much inspired by entt.
 
 # Usage
-#include "src/entity.h"
+#include <src/entity.h>
 
 # Requirements
 At least C++ 20
