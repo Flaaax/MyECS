@@ -272,9 +272,6 @@ namespace myecs {
 		}
 	};
 
-	template<size_t>
-	class AltRegistry:public Registry{}
-
 }//namespace myecs
 
 
